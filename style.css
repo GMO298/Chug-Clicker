@@ -48,7 +48,7 @@ a {
   left: 50%;
   margin: 10px;
   border: none;
-  color: rgba(255, 255, 255, 0.746);
+  color: rgba(255, 255, 255, 0.75);
   width: 80%;
   height: 70px;
   transform: translate(-50%, -0%);
@@ -56,7 +56,7 @@ a {
   border-radius: 15px;
   font-size: 18px;
   transition: 0.5s;
-  background-color: rgba(31, 31, 31, 0.581);
+  background-color: rgba(31, 31, 31, 0.5);
   z-index: 10;
   text-align: center; 
   line-height: 70px;  
